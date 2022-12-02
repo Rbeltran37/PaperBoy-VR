@@ -1,9 +1,9 @@
 # PaperBoy-VR
-*Endless runner
-*Throw Physics
-*Crash Colliders
-*Auto Locomotion
-*Newspaper Pickups
+*Endless runner  
+*Throw Physics  
+*Crash Colliders  
+*Auto Locomotion  
+*Newspaper Pickups  
 
 # Demos
 Quest APK: https://github.com/Rbeltran37/PaperBoy-VR/releases/download/Alpha/PaperBoyVR.apk
