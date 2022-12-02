@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ae29660071dc604fbdd5771283270fb, type: 3}
+  m_Name: ObjectPoolSO_Structure_House_A_A
+  m_EditorClassIdentifier: 
+  ObjectPoolSet: {fileID: 11400000, guid: 0c0cf602d972558418c5b4527f09ca1c, type: 2}
+  PrefabToPool: {fileID: 5158084800496700503, guid: 22d05274f4e30534ca6a0f50dcf16466, type: 3}
+  NumObjectsToPool: 10

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ae29660071dc604fbdd5771283270fb, type: 3}
+  m_Name: ObjectPoolSO_Tile_Center
+  m_EditorClassIdentifier: 
+  ObjectPoolSet: {fileID: 11400000, guid: ed48aba569016be40b0bb97df2273dee, type: 2}
+  PrefabToPool: {fileID: 8862763880822881701, guid: 31b9caa97ea3da543a0152bd12c9d7e8, type: 3}
+  NumObjectsToPool: 25

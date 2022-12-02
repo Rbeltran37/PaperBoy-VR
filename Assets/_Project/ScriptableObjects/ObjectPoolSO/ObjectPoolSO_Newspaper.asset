@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ae29660071dc604fbdd5771283270fb, type: 3}
+  m_Name: ObjectPoolSO_Newspaper
+  m_EditorClassIdentifier: 
+  ObjectPoolSet: {fileID: 11400000, guid: db9d89cc944584e44b741da30648723f, type: 2}
+  PrefabToPool: {fileID: 7027950583219206266, guid: 72b17723ca2400a40b52e8dab0c96a1c, type: 3}
+  NumObjectsToPool: 9

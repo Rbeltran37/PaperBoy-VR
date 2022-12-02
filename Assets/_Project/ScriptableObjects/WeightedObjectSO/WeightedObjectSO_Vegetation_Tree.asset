@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95ce8cecc60c8ad4faac9471f415d5f6, type: 3}
+  m_Name: WeightedObjectSO_Vegetation_Tree
+  m_EditorClassIdentifier: 
+  Weight: 3
+  ObjectPoolSO: {fileID: 11400000, guid: bce2c65a00ea931488679730e01f07d4, type: 2}
