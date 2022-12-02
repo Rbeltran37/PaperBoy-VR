@@ -11,4 +11,4 @@ Quest APK: https://github.com/Rbeltran37/PaperBoy-VR/releases/download/Alpha/Pap
 PCVR: https://github.com/Rbeltran37/PaperBoy-VR/releases/download/PCVR/PaperBoyVR.Demo.zip
 
 # Video Preview  
-[![Preview Video](https://www.youtube.com/watch?v=xqd98OXwVJg)]
+![Preview Video](https://www.youtube.com/watch?v=xqd98OXwVJg)
